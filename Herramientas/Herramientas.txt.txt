@@ -1,0 +1,35 @@
+Herramientas
+
+id	nombre		proposito				enlace
+MULTIPLATAFORMA
+1	Pixlr 		Editor de fotografías			https://pixlr.com/
+2	DropBox		Almacenaje de archivo			https://www.dropbox.com/
+3	Pinterest	Infogramas y +				https://es.pinterest.com/			
+4	GoogleDrive	Almacenaje y creación de documentos	https://www.google.com/intl/es/drive/
+5	OneDrive	Almacenaje y creación de documentos	https://onedrive.live.com/about/es-es/
+6	Trello		Organización				https://trello.com/
+7	Pocket		Guardar y acceder a enlaces		https://getpocket.com/
+8	Prezi		Crear material visual			https://prezi.com/
+9	OneNote		Cuaderno Digital			Online https://www.onenote.com/hrd 
+								Descarga: https://www.onenote.com/
+ONLINE
+10	MindMeister	Mapas Mentales				https://www.mindmeister.com/es
+11	JoliCloud	Almacenamiento en nube			https://www.jolicloud.com/
+12	Cite this for me Bibliografías				https://www.citethisforme.com/es
+13	Draw.io		Diagramas				https://www.draw.io/
+14	Slidebean	Crear material visual			https://slidebean.com/
+15	Reverso		Traductor				http://www.reverso.net/text_translation.aspx?lang=ES
+
+Escritorio
+16	PyCharm		Editor Python				https://www.jetbrains.com/pycharm/
+17	Github		Repositorio				https://github.com/
+18	sublime text	Editor					www.sublimetext.com/
+19	Geany		IDLE					www.geany.org/
+
+Android
+20	Jota+		Editor
+21	Terminal IDE	Editor
+22	DroidEdit	Editor
+23	EveryCircuitFree Simulador Circuitos
+24	ElectroDroid	 Simulador Circuitos
+25	WPS Office+PDF	Manipulador archivos
